@@ -550,9 +550,14 @@
         "seconds": 80
     },
     "Verifier:page-005.html:V-0": {
-        "Date/Time": "Fri Oct 14 18:28:15 2022",
+        "Date/Time": "Fri Oct 14 18:29:03 2022",
         "directory": "Verifier:page-005.html:V-0",
-        "seconds": 258
+        "seconds": 28
+    },
+    "Verifier:page-006.html:V-0": {
+        "Date/Time": "Fri Oct 14 18:30:07 2022",
+        "directory": "Verifier:page-006.html:V-0",
+        "seconds": 57
     },
     "Verifier:page-201.txt:V-0": {
         "Date/Time": "",
