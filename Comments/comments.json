@@ -1,5 +1,5 @@
 {
-    "AverageCharAccuracy": 96.55172729492188,
+    "AverageCharAccuracy": 96.875,
     "AverageCharErrors": 0,
     "AverageWordAccuracy": 100,
     "AverageWordErrors": 0,
@@ -67,6 +67,30 @@
             "charerrors": 0,
             "comments": "",
             "pagename": "page-008",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-009": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-009",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-011": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-011",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-012": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-012",
             "wordaccuracy": 100,
             "worderrors": 0
         },
