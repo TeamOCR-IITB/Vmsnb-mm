@@ -1,5 +1,5 @@
 {
-    "AverageCharAccuracy": 98.4126968383789,
+    "AverageCharAccuracy": 98.4375,
     "AverageCharErrors": 0,
     "AverageWordAccuracy": 100,
     "AverageWordErrors": 0,
@@ -339,6 +339,14 @@
             "charerrors": 0,
             "comments": "",
             "pagename": "page-043",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-044": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-044",
             "wordaccuracy": 100,
             "worderrors": 0
         },
