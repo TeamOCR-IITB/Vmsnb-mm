@@ -3,9 +3,9 @@
     "AverageCharErrors": 0,
     "AverageWordAccuracy": 99.9957504272461,
     "AverageWordErrors": 0,
-    "Formatting": false,
+    "Formatting": true,
     "Rating-V0": 1,
-    "Rating-V1": 4,
+    "Rating-V1": 5,
     "pages": {
         "page-001": {
             "characcuracy": 100,
