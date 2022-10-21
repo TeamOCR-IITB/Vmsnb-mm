@@ -56,5 +56,25 @@
             "Timestamp": "14:11:06",
             "Word": " च"
         }
+    },
+    "page-098": {
+        "23:30:47": {
+            "Page Name": "page-098",
+            "Time Elapsed (s)": 19,
+            "Timestamp": "23:30:47",
+            "Word": "वीरमित्रोदयस्य श्राद्धप्रकाशे-"
+        },
+        "23:30:56": {
+            "Page Name": "page-098",
+            "Time Elapsed (s)": 28,
+            "Timestamp": "23:30:56",
+            "Word": "वीरमित्रोदयस्य श्राद्धप्रकाशे-"
+        },
+        "23:36:41": {
+            "Page Name": "page-098",
+            "Time Elapsed (s)": 372,
+            "Timestamp": "23:36:41",
+            "Word": "||"
+        }
     }
 }
