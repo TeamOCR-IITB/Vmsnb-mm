@@ -25,7 +25,8 @@ page-302,100,100,0,0
 page-303,98.96,99.56,2,4
 page-304,100,100,0,0
 page-305,100,100,0,0
-page-306,98.32,99.7,3,3
+page-306,97.77,99.31,4,7
 page-307,100,100,0,0
+page-308,100,100,0,0
  ,Average Accuracy (Word level),Average Accuracy (Character-Level),Average Errors (Word level),Average Errors (Character-Level),
- ,99.9029,96.4021,0,0
+ ,99.8872,96.5128,0,0
