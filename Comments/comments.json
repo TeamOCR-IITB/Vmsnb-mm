@@ -4,7 +4,7 @@
     "AverageWordAccuracy": 100,
     "AverageWordErrors": 0,
     "Rating-V0": 1,
-    "Rating-V1": null,
+    "Rating-V1": 1,
     "pages": {
         "page-201": {
             "characcuracy": 100,
