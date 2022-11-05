@@ -38,6 +38,6 @@ page-315,97.81,98.6,3,11
 page-316,98.43,98,3,19
 page-317,98.64,99.25,2,6
 page-318,98.97,99.09,2,9
-page-319,99.42,99.78,1,2
+page-319,97.13,97.7,5,21
  ,Average Accuracy (Word level),Average Accuracy (Character-Level),Average Errors (Word level),Average Errors (Character-Level),
- ,98.9567,96.5508,1,8
+ ,98.8995,96.4988,1,9
