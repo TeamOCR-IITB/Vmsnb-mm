@@ -1,9 +1,9 @@
 {
-    "AverageCharAccuracy": 95.45454406738281,
+    "AverageCharAccuracy": 100,
     "AverageCharErrors": 0,
     "AverageWordAccuracy": 100,
     "AverageWordErrors": 0,
-    "Rating-V0": 1,
+    "Rating-V0": 4,
     "Rating-V1": 1,
     "pages": {
         "page-201": {
@@ -111,7 +111,7 @@
             "worderrors": 0
         },
         "page-214": {
-            "characcuracy": 0,
+            "characcuracy": 100,
             "charerrors": 0,
             "comments": "",
             "pagename": "page-214",
