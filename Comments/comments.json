@@ -1,7 +1,7 @@
 {
-    "AverageCharAccuracy": 97.3890609741211,
+    "AverageCharAccuracy": 97.42630767822266,
     "AverageCharErrors": 9,
-    "AverageWordAccuracy": 98.58000183105469,
+    "AverageWordAccuracy": 98.59446716308594,
     "AverageWordErrors": 2,
     "Rating-V0": 1,
     "Rating-V1": 2,
@@ -516,6 +516,14 @@
             "comments": "",
             "pagename": "page-344",
             "wordaccuracy": 99.43000030517578,
+            "worderrors": 1
+        },
+        "page-345": {
+            "characcuracy": 99.80999755859375,
+            "charerrors": 2,
+            "comments": "",
+            "pagename": "page-345",
+            "wordaccuracy": 99.5199966430664,
             "worderrors": 1
         }
     }
