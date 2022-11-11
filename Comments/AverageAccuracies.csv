@@ -84,5 +84,6 @@ page-363,100,100,0,0
 page-364,96.53,98.54,6,12
 page-365,97.07,98.68,6,12
 page-366,97.37,98.89,5,10
+page-367,97.41,98.98,5,10
  ,Average Accuracy (Word level),Average Accuracy (Character-Level),Average Errors (Word level),Average Errors (Character-Level),
- ,98.6773,97.9293,2,8
+ ,98.6626,97.9415,2,8
