@@ -1418,5 +1418,15 @@
         "Date/Time": "Fri Nov 11 21:32:47 2022",
         "directory": "Verifier:page-369.html:V-0",
         "seconds": 61
+    },
+    "Verifier:page-370.html:V-0": {
+        "Date/Time": "Fri Nov 11 21:35:30 2022",
+        "directory": "Verifier:page-370.html:V-0",
+        "seconds": 150
+    },
+    "Verifier:page-371.html:V-0": {
+        "Date/Time": "Fri Nov 11 21:40:14 2022",
+        "directory": "Verifier:page-371.html:V-0",
+        "seconds": 282
     }
 }
