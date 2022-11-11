@@ -100,5 +100,9 @@ page-379,95.94,98.09,8,16
 page-380,98.8,99.47,2,4
 page-381,97.74,99.14,4,8
 page-382,98.11,99.53,1,2
+page-383,100,100,0,0
+page-384,98.63,99.34,4,7
+page-385,100,100,0,0
+page-386,100,100,0,0
  ,Average Accuracy (Word level),Average Accuracy (Character-Level),Average Errors (Word level),Average Errors (Character-Level),
- ,98.3341,98.0245,3,8
+ ,98.3845,98.0934,2,8
