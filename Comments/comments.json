@@ -1,8 +1,8 @@
 {
-    "AverageCharAccuracy": 97.93785858154297,
-    "AverageCharErrors": 9,
-    "AverageWordAccuracy": 98.39321899414062,
-    "AverageWordErrors": 2,
+    "AverageCharAccuracy": 98.02445220947266,
+    "AverageCharErrors": 8,
+    "AverageWordAccuracy": 98.33405303955078,
+    "AverageWordErrors": 3,
     "Rating-V0": 1,
     "Rating-V1": 3,
     "pages": {
@@ -749,6 +749,70 @@
             "pagename": "page-374",
             "wordaccuracy": 99.43000030517578,
             "worderrors": 2
+        },
+        "page-375": {
+            "characcuracy": 99.80000305175781,
+            "charerrors": 2,
+            "comments": "",
+            "pagename": "page-375",
+            "wordaccuracy": 99.63999938964844,
+            "worderrors": 1
+        },
+        "page-376": {
+            "characcuracy": 98.43000030517578,
+            "charerrors": 13,
+            "comments": "",
+            "pagename": "page-376",
+            "wordaccuracy": 96.20999908447266,
+            "worderrors": 8
+        },
+        "page-377": {
+            "characcuracy": 99.41999816894531,
+            "charerrors": 6,
+            "comments": "",
+            "pagename": "page-377",
+            "wordaccuracy": 98.22000122070312,
+            "worderrors": 4
+        },
+        "page-378": {
+            "characcuracy": 98.37000274658203,
+            "charerrors": 12,
+            "comments": "",
+            "pagename": "page-378",
+            "wordaccuracy": 96.51000213623047,
+            "worderrors": 6
+        },
+        "page-379": {
+            "characcuracy": 98.08999633789062,
+            "charerrors": 16,
+            "comments": "",
+            "pagename": "page-379",
+            "wordaccuracy": 95.94000244140625,
+            "worderrors": 8
+        },
+        "page-380": {
+            "characcuracy": 99.47000122070312,
+            "charerrors": 4,
+            "comments": "",
+            "pagename": "page-380",
+            "wordaccuracy": 98.80000305175781,
+            "worderrors": 2
+        },
+        "page-381": {
+            "characcuracy": 99.13999938964844,
+            "charerrors": 8,
+            "comments": "",
+            "pagename": "page-381",
+            "wordaccuracy": 97.73999786376953,
+            "worderrors": 4
+        },
+        "page-382": {
+            "characcuracy": 99.52999877929688,
+            "charerrors": 2,
+            "comments": "",
+            "pagename": "page-382",
+            "wordaccuracy": 98.11000061035156,
+            "worderrors": 1
         }
     }
 }
