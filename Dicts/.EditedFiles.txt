@@ -185,3 +185,5 @@ D:/IIT bombay/New folder/Vmsnb-mm/CorrectorOutput/page-383.html
 D:/IIT bombay/New folder/Vmsnb-mm/CorrectorOutput/page-384.html
 D:/IIT bombay/New folder/Vmsnb-mm/CorrectorOutput/page-385.html
 D:/IIT bombay/New folder/Vmsnb-mm/CorrectorOutput/page-386.html
+D:/IIT bombay/New folder/Vmsnb-mm/VerifierOutput/page-381.html
+D:/IIT bombay/New folder/Vmsnb-mm/VerifierOutput/page-382.html
