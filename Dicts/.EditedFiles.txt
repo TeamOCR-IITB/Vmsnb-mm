@@ -191,3 +191,4 @@ C:/Users/A515-53K/Desktop/GitHub/Vmsnb-mm/CorrectorOutput/page-257.html
 C:/Users/A515-53K/Desktop/GitHub/Vmsnb-mm/VerifierOutput/page-257.html
 C:/Users/A515-53K/Desktop/GitHub/Vmsnb-mm/CorrectorOutput/page-258.html
 C:/Users/A515-53K/Desktop/GitHub/Vmsnb-mm/CorrectorOutput/page-259.html
+C:/Users/A515-53K/Desktop/GitHub/Vmsnb-mm/CorrectorOutput/page-260.html
