@@ -1034,6 +1034,16 @@
         "directory": "Corrector:page-215.txt:V-1",
         "seconds": 0
     },
+    "Verifier:page-167.html:V-0": {
+        "Date/Time": "Fri Dec 2 20:19:35 2022",
+        "directory": "Verifier:page-167.html:V-0",
+        "seconds": 1175
+    },
+    "Verifier:page-168.html:V-0": {
+        "Date/Time": "Fri Dec 2 19:59:57 2022",
+        "directory": "Verifier:page-168.html:V-0",
+        "seconds": 677
+    },
     "Verifier:page-169.html:V-0": {
         "Date/Time": "Fri Dec 2 19:48:35 2022",
         "directory": "Verifier:page-169.html:V-0",
