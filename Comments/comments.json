@@ -1,11 +1,59 @@
 {
-    "AverageCharAccuracy": 98.64865112304688,
+    "AverageCharAccuracy": 98.75,
     "AverageCharErrors": 0,
     "AverageWordAccuracy": 100,
     "AverageWordErrors": 0,
     "Rating-V0": 1,
     "Rating-V1": 4,
     "pages": {
+        "page-142": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-142",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-143": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-143",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-144": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-144",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-145": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-145",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-146": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-146",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "page-147": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "page-147",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
         "page-148": {
             "characcuracy": 100,
             "charerrors": 0,

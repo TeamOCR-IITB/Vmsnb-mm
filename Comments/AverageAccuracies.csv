@@ -1,4 +1,10 @@
 Page Name,Word-Level Accuracy,Character-Level Accuracy,Word-Level Errors,Character-Level Errors
+page-142,100,100,0,0
+page-143,100,100,0,0
+page-144,100,100,0,0
+page-145,100,100,0,0
+page-146,100,100,0,0
+page-147,100,100,0,0
 page-148,100,100,0,0
 page-149,100,100,0,0
 page-150,100,100,0,0
@@ -74,4 +80,4 @@ page-219,100,100,0,0
 page-220,100,100,0,0
 page-221,100,100,0,0
  ,Average Accuracy (Word level),Average Accuracy (Character-Level),Average Errors (Word level),Average Errors (Character-Level),
- ,100,98.6487,0,0
+ ,100,98.75,0,0
