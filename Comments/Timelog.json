@@ -1034,6 +1034,16 @@
         "directory": "Corrector:page-215.txt:V-1",
         "seconds": 0
     },
+    "Verifier:page-136.html:V-0": {
+        "Date/Time": "Sat Dec 3 17:36:15 2022",
+        "directory": "Verifier:page-136.html:V-0",
+        "seconds": 2347
+    },
+    "Verifier:page-137.html:V-0": {
+        "Date/Time": "Sat Dec 3 16:56:58 2022",
+        "directory": "Verifier:page-137.html:V-0",
+        "seconds": 43
+    },
     "Verifier:page-138.html:V-0": {
         "Date/Time": "Sat Dec 3 16:56:13 2022",
         "directory": "Verifier:page-138.html:V-0",
