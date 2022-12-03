@@ -1034,6 +1034,21 @@
         "directory": "Corrector:page-215.txt:V-1",
         "seconds": 0
     },
+    "Verifier:page-139.html:V-0": {
+        "Date/Time": "Sat Dec 3 16:55:07 2022",
+        "directory": "Verifier:page-139.html:V-0",
+        "seconds": 73
+    },
+    "Verifier:page-140.html:V-0": {
+        "Date/Time": "Sat Dec 3 16:53:53 2022",
+        "directory": "Verifier:page-140.html:V-0",
+        "seconds": 930
+    },
+    "Verifier:page-141.html:V-0": {
+        "Date/Time": "Sat Dec 3 16:38:21 2022",
+        "directory": "Verifier:page-141.html:V-0",
+        "seconds": 526
+    },
     "Verifier:page-142.html:V-0": {
         "Date/Time": "Sat Dec 3 16:29:30 2022",
         "directory": "Verifier:page-142.html:V-0",
