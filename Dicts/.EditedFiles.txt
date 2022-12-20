@@ -202,3 +202,6 @@ C:/Users/soham bodas/Desktop/git folder/Vmsnb-mm/VerifierOutput/page-009.html
 C:/Users/soham bodas/Desktop/git folder/Vmsnb-mm/CorrectorOutput/page-010.html
 C:/Users/soham bodas/Desktop/git folder/Vmsnb-mm/Vmsnb-mm/Vmsnb-mm
 C:/Users/soham bodas/Desktop/git folder/Vmsnb-mm/Vmsnb-mm/Vmsnb-mm-S1
+C:/Users/vaibhav/Desktop/git77/Vmsnb-mm/CorrectorOutput/page-009.html
+C:/Users/vaibhav/Desktop/git77/Vmsnb-mm/CorrectorOutput/page-010.html
+
